@@ -4,7 +4,7 @@ close all;
 seed = 1;
 rng(seed)
 %% dataset location
-dataset_loc = "/home/ata/AI2S/Ata/Fuzzy/dataset"
+dataset_loc = ".../.../datasets" % please use your dataset path
 current_path = pwd;
 %% housing data
 
