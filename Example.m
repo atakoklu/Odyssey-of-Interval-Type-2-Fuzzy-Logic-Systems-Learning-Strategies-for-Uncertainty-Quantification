@@ -66,9 +66,9 @@ learnRate = 0.01;
 %% abalone
 
 % cd(dataset_loc)
-% cd("UCI_datasets/abalone")
+% cd("Datasets")
 % dataset_name = "abalone";
-% load("data.mat");
+% load("abalone.mat");
 % cd(current_path);
 % 
 % data = [x y];
@@ -79,9 +79,9 @@ learnRate = 0.01;
 %% aids
 %
 % cd(dataset_loc)
-% cd("UCI_datasets/aids")
+% cd("Datasets")
 % dataset_name = "aids";
-% load("data.mat");
+% load("aids.mat");
 % cd(current_path);
 % 
 % data = [x y];
@@ -93,9 +93,9 @@ learnRate = 0.01;
 %% parkinson motor
 %
 % cd(dataset_loc)
-% cd("UCI_datasets/parkinsons+telemonitoring")
+% cd("Datasets")
 % dataset_name = "parkinson";
-% load("data.mat");
+% load("parkinson.mat");
 % cd(current_path);
 % y = y_motor;
 % 
